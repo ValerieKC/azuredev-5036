@@ -6,6 +6,7 @@ from azure.identity import DefaultAzureCredential
 from azure.ai.projects import AIProjectClient
 from azure.ai.projects.models import PromptAgentDefinition
 
+# https://learn.microsoft.com/en-us/azure/ai-foundry/reference/foundry-project-rest-preview?view=foundry&preserve-view=true
 user_endpoint = "https://foundry-dev-isd-eus2.services.ai.azure.com/api/projects/default"
 
 credential = DefaultAzureCredential()
