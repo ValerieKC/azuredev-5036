@@ -1,6 +1,6 @@
 # VS Code for the Web - Microsoft Foundry
 
-We've generated a simple development environment for you to get started with sample code to create and run an agent.
+We've generated a simple development  for you to get started with sample code to create and run an agent.
 
 The Foundry extension provides tools to help you build, test, and deploy AI models and AI Applications directly from VS Code. It offers simplified operations for interacting with your models, agents, and threads without leaving your development environment. Click on the Microsoft Foundry Icon on the left to see more.
 
